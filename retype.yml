@@ -1,0 +1,8 @@
+input: .
+output: .retype
+url: docs.exegol.fi
+branding:
+  title: Exegol Finance
+  label: Docs
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
