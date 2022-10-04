@@ -4,5 +4,12 @@ url: docs.exegol.fi
 branding:
   title: Exegol Finance
   label: Docs
+  logo: images/exegol.png
+  logoDark: images/exegol-dark.png
+  colors:
+    label:
+      background: "#f7f7f2"
+      text: "#000"
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
+favicon: images/exegol.png
