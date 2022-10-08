@@ -1,13 +1,13 @@
 # Withdrawal Fee
 
-Withdrawing on Exegol may incur a withdrawal fee. The withdrawal fee has been instituted to dissuade frequent withdrawals, which enables the team to have a higher capital utilisation (increasing overall APR), and creates an economic deterrent to any smart contract vulnerabilities that may be present. 
+Withdrawing on Exegol may incur a withdrawal fee. The withdrawal fee has been instituted to dissuade frequent withdrawals, which enables the team to have a higher capital utilisation (increasing overall APR), and creates an economic deterrent to any smart contract vulnerabilities that may be discovered. 
 
 The maximum withdrawal fee is currently 10% of the withdrawal output at the `start block`, and _linearly decreases over time_, becoming zero after approximately 100800 L1 blocks, which is approximately 14 days. 
 
 The Exegol team may adjust the maximum withdrawal fee and decay duration depending on user requirements and protocol dynamics.
 
 !!!info
-Swaps on DEXes are not subject to a withdrawal fee, but may be subject to swap fees. However swapping on a DEX may reset the `start_time` for the recipient wallet. Users are encouraged to compare withdrawing on a DEX and via the official website.
+Swaps on DEXes are not subject to a withdrawal fee, but may be subject to swap fees. However swapping on a DEX may reset the `start block` for the recipient wallet. Users are encouraged to compare withdrawing on a DEX and via the official website.
 !!!
 
 The `start block` is tied to a wallet. The `start block`
