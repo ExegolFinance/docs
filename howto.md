@@ -1,3 +1,8 @@
+---
+order: -2
+icon: ":handshake:"
+---
+
 # Buying and Selling eUSD
 
 Buying and selling can be done via the [official website](https://www.exegol.fi).
@@ -8,7 +13,7 @@ Always make sure that you are on the correct domain. The official domain of Exeg
 
 ## Prerequisites
 
-To buy eUSD, you must have USDC on the Arbitrum network, as well as some ETH to pay for gas fees. 
+To buy eUSD, you must have USDC on the Arbitrum network, as well as some ETH to pay for gas fees.
 
 To sell eUSD, you must have eUSD in your wallet, as well as some ETH to pay for gas fees.
 
@@ -33,7 +38,6 @@ If you have previously approved USDC spend, you may be required to reapprove as 
 5. Once the approval transaction is confirmed, you can now click the deposit button<sup>1</sup> to buy eUSD.
 
 ![](../images/howto-3.jpeg)
-
 
 ## Selling
 

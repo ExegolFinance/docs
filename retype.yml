@@ -13,3 +13,5 @@ branding:
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 favicon: images/exegol.png
+meta:
+  title: " | Exegol Finance"
