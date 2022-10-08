@@ -11,10 +11,10 @@ Exegol strives to introduces a new branch of crypto as a whole through its uniqu
 - Exegol generates yield via various market neutral strategies using the deposited USDC
 - eUSD allows users to leverage down on market neutral yield strategies
 - eUSD is fully backed and redeemable for $\geq 1 \text{ USDC}$, based on the prevailing backing ratio
-- Yield is payed out in the form of increasing the USDC/eUSD exchange rate
+- Yield is payed out by increasing the USDC/eUSD exchange rate
 |||
 
-# How to use eUSD
+## How to use eUSD
 
 Generating returns with eUSD is as simple as buying and holding eUSD in your wallet. This means that you can safely store eUSD in cold storage and still have access to high yields across multiple chains.
 
