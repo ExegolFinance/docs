@@ -20,6 +20,10 @@ Exegol strives to introduces a new branch of crypto as a whole through its uniqu
 - Yield is payed out by increasing the USDC/eUSD exchange rate
   |||
 
+!!!danger
+Buying eUSD does not guarantee profits. Please invest responsibility, and never invest more than you can afford to lose. Exegol Finance does not guarantee any compensation for any of our users in the event of exploits, hacks, and other unforeseeable negative events.
+!!!
+
 ## How to use eUSD
 
 Generating returns with eUSD is as simple as buying and holding eUSD in your wallet. This means that you can safely store eUSD in cold storage and still have access to high yields across multiple chains.
