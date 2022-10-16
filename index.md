@@ -16,8 +16,8 @@ Exegol strives to introduces a new branch of crypto as a whole through its uniqu
 - eUSD has an annual rate target of 20% APY
 - Exegol generates yield via various market neutral strategies using the deposited USDC
 - eUSD allows users to leverage down on market neutral yield strategies
-- eUSD is fully backed and redeemable for $\geq 1 \text{ USDC}$, based on the prevailing backing ratio
-- Yield is payed out by increasing the USDC/eUSD exchange rate
+- eUSD is fully backed and redeemable for 1 USDC
+- Yield is payed out by regular rebases
   |||
 
 !!!danger
